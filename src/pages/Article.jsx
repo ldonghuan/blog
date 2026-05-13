@@ -22,7 +22,7 @@ const Article = () => {
     }
 
     // Fetch the raw markdown file
-    fetch(`/posts/${id}.md`)
+    fetch(`${import.meta.env.BASE_URL}posts/${id}.md`)
       .then(response => {
         if (!response.ok) throw new Error('Post not found')
         return response.text()

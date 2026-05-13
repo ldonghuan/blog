@@ -14,5 +14,21 @@
     "category": "数字货币 & Web3",
     "date": "2026-05-10",
     "icon": "Bitcoin"
+  },
+  {
+    "id": "depin-ai-compute",
+    "title": "DePIN：去中心化算力如何为 AI 训练供能",
+    "summary": "探讨 AI 算力荒背景下，去中心化物理基础设施网络(DePIN)的破局之道，以及它将如何重塑未来的算力市场格局。",
+    "category": "科技交汇点",
+    "date": "2026-05-08",
+    "icon": "Activity"
+  },
+  {
+    "id": "ai-models-cost-optimization",
+    "title": "中美 AI 模型发展差异与推理成本优化",
+    "summary": "硬核解析当前顶级大语言模型在架构、训练数据集以及实际落地中推理成本优化的最新进展与路线差异。",
+    "category": "AI & 智能演进",
+    "date": "2026-05-05",
+    "icon": "Cpu"
   }
 ]

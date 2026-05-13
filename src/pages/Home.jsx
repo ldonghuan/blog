@@ -39,7 +39,7 @@ const Home = () => {
     <div className="home-container">
       {/* Hero Section */}
       <section className="hero-section glass-panel">
-        <div className="hero-bg" style={{ backgroundImage: `url('/images/hero_bg.png')` }}></div>
+        <div className="hero-bg" style={{ backgroundImage: `url('${import.meta.env.BASE_URL}images/hero_bg.png')` }}></div>
         <div className="hero-overlay"></div>
         <div className="hero-content">
           <motion.h1 

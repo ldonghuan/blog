@@ -22,7 +22,7 @@ const Navbar = () => {
     <header className="navbar-container glass-panel">
       <div className="navbar-content">
         <Link to="/" className="navbar-brand">
-          <img src="/images/logo.png" alt="Logo" className="navbar-logo" />
+          <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Logo" className="navbar-logo" />
           <span className="brand-text glow-text">六六的科技站</span>
         </Link>
         
