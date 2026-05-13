@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai-crypto-agent-review",
+    "title": "评测：最新 AI 加密货币分析智能体",
+    "summary": "深入测试了市场上最新发布的几个AI Agent，看它们如何在链上数据汪洋中捕捉Alpha，并附带实用的Prompt工程指南。",
+    "category": "AI & 智能演进",
+    "date": "2026-05-12",
+    "icon": "Cpu"
+  },
+  {
+    "id": "whale-wallet-monitoring",
+    "title": "监控鲸鱼钱包：链上衍生品头寸分析",
+    "summary": "手把手教你如何通过公开的链上数据，追踪巨鲸地址的资金流向，并在复杂的衍生品市场中建立自己的监控体系。",
+    "category": "数字货币 & Web3",
+    "date": "2026-05-10",
+    "icon": "Bitcoin"
+  }
+]
